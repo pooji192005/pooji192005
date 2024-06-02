@@ -1,0 +1,122 @@
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(0, 209, 188);
+    display: flex;
+    align-items: center;
+    justify-content: -80%;
+
+
+}
+.profile-card{
+    width:70%;
+    max-width:400px;
+    height:100%;
+    max-height: 750px;
+    text-align: center;
+    background-color:white ;   
+    margin-left: 5%;
+    margin-top: 35px;
+    margin-bottom: 300px;
+    padding-bottom: -10px;  
+    padding-right:0;                                                                                                                                        
+
+}
+.cover-pic{
+    display:block;
+    width:100%;
+}
+.profile-pic{
+    width:140px;
+    border-radius: 50%;
+    margin-top: -20%;
+}
+a{
+    margin: 50px;
+    text-decoration: none;
+    padding: 300px 0px;
+    color:black;
+    margin-left: 10%;
+    padding-bottom: 100;
+    font-size: 35px;
+    position: relative;
+    top: 45px;
+
+}  
+.profile-card2{
+    width:150%;
+    max-width:400px;
+    height:300%;
+    max-height: 850px;
+    text-align: center;
+    background-color:white ;   
+    margin-left: 120%;
+    margin-top: 65px;
+    margin-bottom: 300px;
+    padding-bottom: -10px; 
+    padding-right:0;      
+}
+b{
+    margin: 50px;
+    text-decoration: none;
+    padding: 300px 0px;
+    color:black;
+    margin-left: 50%;
+    margin-bottom: 200%;
+    font-size: 35px;
+    position: relative;
+    top: 45px;
+
+}  
+.cover2-pic{
+    display:block;
+    width:100%;
+    margin-top: -197%;
+}
+.profile2-pic{
+    width:140px;
+    border-radius: 75%;
+    margin-top: -20%;
+}
+.profile-card3{
+    width:150%;
+    max-width:400px;
+    height:100%;
+    max-height: 650px;
+    text-align: center;
+    background-color:white ;   
+    margin-left: 120%;
+    margin-top: 65px;
+    margin-bottom: 250px;
+    padding-bottom: 100px;  
+    padding-right:0;      
+}
+c{
+    margin: 50px;
+    text-decoration: none;
+    padding: 300px 0px;
+    color:black;
+    margin-left: 10%;
+    padding-bottom: 100px;
+    font-size: 32px;
+    position: relative;
+    top: 15px;
+
+}  
+.cover3-pic{
+    display:block;
+    width:100%;
+    height: 200%;
+    margin-top: -199%;
+}
+.profile3-pic{
+    width:140px;
+    border-radius: 80%;
+    margin-top: -20%;
+}
